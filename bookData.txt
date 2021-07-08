@@ -1,0 +1,4 @@
+1 307887443, Ready Player One, Ernest Cline, Sci-Fi, 4.5 true, false,
+2 134498379, Starting Out with C++, Tony Gaddis, Textbook, 4.2 true, false,
+3 452264014, Fences, August Wilson, Drama/Play, 4.9 false, true,
+4 810993136, Diary of A Wimpy Kid, Jeff Kinney, 3.9 true, false,

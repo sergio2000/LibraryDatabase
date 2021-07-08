@@ -1,0 +1,7 @@
+8  steve
+33 rika
+82 david
+20 mary
+17 john
+18 kathy
+45 bob
